@@ -1,5 +1,6 @@
-id: d7914a73-4098-43cb-9809-96f7b99b5458
 name: link-vault
+project_scope: main
+project_type: standalone
 description: React + TypeScript + Vite
 tier: prototype
 lane: oss
@@ -9,5 +10,6 @@ stack: [typescript, react, convex, tailwind, vite]
 repo: "https://github.com/mxn2020/link-vault"
 deploy_url: null
 last_active: 2026-02-24
-tags: []
-notes: 
+tags: [links, bookmarks, organization, collections, sharing, curation, tools]
+notes: null
+id: d7914a73-4098-43cb-9809-96f7b99b5458
