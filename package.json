@@ -45,7 +45,7 @@
   },
   "description": "Bookmark and link management with tagging and search",
   "author": "Mehdi Nabhani",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "keywords": [
     "link",
     "vault",
